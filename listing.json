@@ -1,6 +1,6 @@
 [
   "overworld IrisDimensions/overworld",
-  "oldverworld IrisDimensions/oldverworld",
+  "overworld-legacy IrisDimensions/overworld/legacy",
   "overworld-factions IrisDimensions/overworld/factions",
   "vanilla IrisDimensions/vanilla",
   "flat IrisDimensions/flat",
