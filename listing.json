@@ -1,10 +1,10 @@
 [
   "overworld IrisDimensions/overworld",
   "oldverworld IrisDimensions/oldverworld",
+  "overworld-factions IrisDimensions/overworld/factions",
   "vanilla IrisDimensions/vanilla",
   "flat IrisDimensions/flat",
   "redstone IrisDimensions/redstone",
   "mars IrisDimensions/mars",
-  "example IrisDimensions/example",
-  "testingdonotuse--- IrisDimensions/overworld/factions"
+  "example IrisDimensions/example"
 ]
