@@ -1,0 +1,7 @@
+{
+  "overworld": "IrisDimensions/overworld",
+  "overworld-legacy": "IrisDimensions/overworld/legacy",
+  "overworld-factions": "IrisDimensions/overworld/factions",
+  "flat": "IrisDimensions/flat",
+  "redstone": "IrisDimensions/redstone"
+}
