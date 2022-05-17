@@ -1,8 +1,7 @@
 [
   "newhorizons https://github.com/IrisDimensions/newhorizons",
   "end https://github.com/IrisDimensions/theend",
-  "overworld IrisDimensions/overworld/stable",
-  "overworld-dev IrisDimensions/overworld",
+  "overworld IrisDimensions/overworld",
   "overworld-legacy IrisDimensions/overworld/legacy",
   "overworld-factions IrisDimensions/overworld/factions",
   "flat IrisDimensions/flat",
