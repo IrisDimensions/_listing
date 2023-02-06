@@ -5,5 +5,7 @@
   "overworld-factions": "IrisDimensions/overworld/factions",
   "flat": "IrisDimensions/flat",
   "redstone": "IrisDimensions/redstone",
-  "example": "IrisDimensions/example"
+  "example": "IrisDimensions/example",
+  "empty": "CocoTheOwner/empty",
+  "colors": "CocoTheOwner/colors"
 }
