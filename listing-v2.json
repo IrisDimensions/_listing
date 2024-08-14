@@ -4,7 +4,7 @@
   "overworld-legacy": "IrisDimensions/overworld/legacy",
   "overworld-factions": "IrisDimensions/overworld/factions",
   "flat": "IrisDimensions/flat",
-  "ymir IrisDimensions/Ymir",
+  "ymir" IrisDimensions/Ymir",
   "redstone": "IrisDimensions/redstone",
   "example": "IrisDimensions/example"
 }
